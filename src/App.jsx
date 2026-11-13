@@ -6,13 +6,13 @@ import { useState, useMemo } from 'react';
 const FORMSPREE_URL = 'https://formspree.io/f/xaeoydkk'; // Replace with your Formspree ID
 
 const STAFF_DIRECTORY = [
-  { name: 'Ethan Anstey', pin: '1122' },
-  { name: 'Katie Burry', pin: '3344' },
-  { name: 'Alex Cousens', pin: '5566' },
-  { name: 'Abigail Moss', pin: '7788' },
+  { name: 'Ethan Anstey', pin: '1313' },
+  { name: 'Katie Burry', pin: '4444' },
+  { name: 'Alex Cousens', pin: '2307' },
+  { name: 'Abigail Moss', pin: '5130' },
   { name: 'Micoya Dinn', pin: '2670' },
-  { name: 'Ben Mason', pin: '9700' },
-  { name: 'Emily Cousens', pin: '9600' },
+  { name: 'Ben Mason', pin: '1212' },
+  { name: 'Emily Cousens', pin: '0909' },
   { name: 'Katie Cousens', pin: '2323' },
 ];
 
